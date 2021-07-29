@@ -1,1 +1,3 @@
-with this i will be able to learn git clone ,how to pull from git to local file 
+with this i will be able to learn git clone ,how to pull from git to local file
+next thing to learn is git hub flow
+
